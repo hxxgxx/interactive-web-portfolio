@@ -1,0 +1,17 @@
+.NavButton {
+  display: block;
+  margin: 0 5px;
+  padding: 10px 15px;
+  text-decoration: none;
+  /* background-color: #f3f3f3; */
+  color: gray;
+  border-radius: 3px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.NavButton:hover {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}

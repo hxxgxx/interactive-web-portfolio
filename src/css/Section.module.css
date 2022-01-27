@@ -1,0 +1,10 @@
+.section {
+  flex: 0 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  font-size: 30px;
+  font-weight: lighter;
+}

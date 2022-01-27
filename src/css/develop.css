@@ -1,0 +1,11 @@
+.mid-message {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  font-size: 2rem;
+  color: #888;
+}
+
+.mid-message strong {
+  color: rgb(29, 29, 31);
+}
