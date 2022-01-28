@@ -200,7 +200,7 @@ function Main() {
             <p className="mid-message">
               <strong>Design 디자인</strong>
               <br />
-              디자이너로 재직할 당시,
+              디자이너로 재직할 시절,
               <br />
               작업한 디자인 대표 결과물
             </p>

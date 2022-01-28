@@ -9,18 +9,18 @@ import logo from "../../images/icons/port-log.png";
 
 function Navigation() {
   return (
-    <div className="nav-wrapper fixed-top navbar navbar-toggleable-sm navbar-expand-md">
-      <div className="container">
+    <div className="nav-wrapper fixed-top navbar navbar-toggleable-sm navbar-expand-md" >
+      <div className="container" >
         <Navbar className="w-100" collapseOnSelect expand="lg">
-          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-          <Navbar.Brand href="/">
+          <Navbar.Toggle aria-controls="responsive-navbar-nav" style={{border: "none"}} />
+          <Navbar.Brand href="/" >
             <img src={logo} alt="" style={{ paddingTop: "0.09rem" }} />
           </Navbar.Brand>
 
           {/* <Nav.Link className="nav-link" href="/" style={{ color: "gray" }}>
             home
           </Nav.Link> */}
-          <Navbar.Collapse id="responsive-navbar-nav">
+          <Navbar.Collapse id="responsive-navbar-nav" >
             <Nav className="nav-justified w-100 nav-fill">
               <Link
                 className="nav-link"
