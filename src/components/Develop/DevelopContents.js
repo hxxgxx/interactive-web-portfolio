@@ -3,21 +3,23 @@ import three from "../../images/home/3d_port.png";
 import design from "../../images/home/design_port.png";
 import spring from "../../images/home/java_spring_port.png";
 import diary from "../../images/home/diary.png";
+import webapp from "../../images/home/webapp.png";
+import map from "../../images/home/map.png";
 
 const devProjects = [
   {
-    title: "mini Seoul",
-    date: "2022.01 - 2022.02",
-    desc: "mini Tokyo를 오마주한 Three.js 및 mapbox, harp.gl를 사용하여 서울의 지하철 정보를 알려주는 사이트입니다. ",
-    img: `${three}`,
-    url: "https://hxxgxx.github.io/3d-portfolio/",
+    title: "Three Web Application",
+    date: "2021.12 - (진행중) ",
+    desc: "WebGL을 사용하여 3D 요소를 활용한 반응형 웹 인터랙티브 3D Web Resume 입니다.",
+    img: `${webapp}`,
+    url: "https://github.com/hxxgxx/three-portfolio",
   },
   {
-    title: "React Movie Webapp",
-    date: "2021.07",
-    desc: "디자이너로 근무할 때의 디자인 작업물을 React와 Gatsby를 사용하여 제작한 디자인 웹 포트폴리오 입니다.",
-    img: `${design}`,
-    url: "https://hhi-812.github.io/design-web-portfolio/",
+    title: "mini Seoul",
+    date: "2022.01 - (진행중) ",
+    desc: "mini Tokyo에 영감을 받아 Three.js 및 mapbox, harp.gl를 사용하여 서울의 지하철 정보를 알려주는 웹 사이트입니다. ",
+    img: `${map}`,
+    url: "https://github.com/hxxgxx/map-practice",
   },
   {
     title: "React Diary",
@@ -37,7 +39,7 @@ const devProjects = [
     date: "2021.07",
     desc: "디자이너로 근무할 때의 디자인 작업물을 React와 Gatsby를 사용하여 제작한 디자인 웹 포트폴리오 입니다.",
     img: `${design}`,
-    url: "https://hhi-812.github.io/design-web-portfolio/",
+    url: "https://hxxgxx.github.io/design-web-portfolio/",
   },
   {
     title: "우리 주인이 달라졌어요",
