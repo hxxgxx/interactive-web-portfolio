@@ -107,7 +107,7 @@ function Main() {
             </section>
           </div>
 
-          <section className="scroll-section" id="scroll-section-1">
+          <section className="scroll-section" id="scroll-section-1" >
             <div className="mid-message">
               <p
                 className="description"
@@ -115,7 +115,7 @@ function Main() {
                   opacity: (position - 700) / 100,
                 }}
               >
-                <strong>Web Developer with an Design background</strong>
+                <strong style={{marginTop: '10rem'}}>Web Developer with an Design background</strong>
               </p>
               <p
                 className="description"
