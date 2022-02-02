@@ -1,6 +1,6 @@
 ## interactive 3d web portfolio 
-
-<strong>1. Main Page<br /><br /></strong>
+<br /><br />
+<strong>1. Main Page<br /></strong>
 ![Hnet com-image](https://user-images.githubusercontent.com/98101323/152154882-36f2cc9c-173a-42e5-a4dd-8a2fefe79e3f.gif)
 
 2. About 
