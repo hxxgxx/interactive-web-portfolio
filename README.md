@@ -19,3 +19,7 @@
 
 ### 5. footer <br />
 ![Hnet com-image (2)](https://user-images.githubusercontent.com/98101323/152157106-b8301d22-5509-4f4e-b0d5-97755a07cbc1.gif)
+
+
+
+* 배포 이슈 발생,,
