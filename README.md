@@ -26,4 +26,5 @@
 
 <br /><br /><br />
 
-* 배포 이슈 발생 ,,
+* 배포 이슈 발생 
+* Failed to load resource: the server responded with a status of 404 () -> 경로수정
